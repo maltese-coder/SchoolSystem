@@ -44,7 +44,7 @@ namespace SchoolSystem
 
         public virtual string GetData()
         {
-            return "ID: " + id + ", Surname: " + surn + ", Salary: " + GetSalary();
+            return "ID: " + id + ", Poop: " + surn + ", Salary: " + GetSalary();
         }
 
         public virtual float GetSalary()
