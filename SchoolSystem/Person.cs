@@ -49,7 +49,8 @@ namespace SchoolSystem
 
         public virtual float GetSalary()
         {
-            return pay;
+            return id;
+            //I changed to id
         }
 
         /*        void PutSalary(float newPay)
