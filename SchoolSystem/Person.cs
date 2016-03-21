@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SchoolSystem
 {
+    //dickbutt
     class Person
     {
         int id;
