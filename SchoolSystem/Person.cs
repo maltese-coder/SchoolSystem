@@ -44,12 +44,12 @@ namespace SchoolSystem
 
         public virtual string GetData()
         {
-            return "ID: " + id + ", Surname: " + surn + ", Salary: " + GetSalary();
+            return "ID: " + id + ", Salary: " + GetSalary();
         }
 
         public virtual float GetSalary()
         {
-            return id;
+            return surn;
             //I changed to id
         }
 
