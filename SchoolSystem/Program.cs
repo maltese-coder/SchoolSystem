@@ -10,7 +10,9 @@ namespace SchoolSystem
     {
         static void Main(string[] args)
         {
+            //comment1
             //comment2
+            //comment3
         }
     }
 }
