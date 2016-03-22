@@ -43,14 +43,13 @@ namespace SchoolSystem
         }
 
         public virtual string GetData()
-        {
+        {  //this line was added in merge
             return "ID: " + id + ", Barnacle Boy: " + GetSalary();
         }
 
         public virtual float GetSalary()
         {
             return surn;
-
         }
 
         /*        void PutSalary(float newPay)
